@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madkunt
 - 👀 I’m interested in e=Mc2
-- 🌱 I’m currently learning ♾
+- 🌱 I’m currently learnin ♾
 - 💞️ I’m looking to collaborate on knowledge 
 - 📫 How to reach me
 
