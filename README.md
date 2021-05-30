@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @Madkunt
-- 👀 I’m interested in e=Mc2
-- 🌱 I’m currently learnin ♾
-- 💞️ I’m looking to collaborate on knowledge 
-- 📫 How to reach me
+<h1 align="center">Welcome to 🔥MK1620🔥 R&D</h1>
+<p align="center">
+  </a>
+  </a>
+  <a href="https://github.com/MadKunt/gitmoji-changelog">
+    <img src="https://img.shields.io/badge/changelog-gitmoji-brightgreen.svg" alt="gitmoji-changelog">
+  </a>
+  <a href="https://twitter.com/MKant1620">
+    <img alt="Twitter: MKant1620" src="https://img.shields.io/twitter/follow/MKant1620.svg?style=social" target="_blank" />
+  </a>
+</p>
+
+
+
+## 🚀 Usage
+
+
+## Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](🔥MK1620🔥)].
+<a href="https://"><img src="https://.svg?width=890&button=false" /></a>
+
+👤 **🔥MK1620🔥**
+
+- Twitter: [@](https://twitter.com/MKant1620)
+- Github: [@](https://github.com/Madkunt)
+
+
+## 📝 License
+
+Copyright © 2021 [MK1620](https://github.com/Madkunt/).<br />
+This project is [420](Unlicensed 🤪) 
+
+
 
 <!---
 Madkunt/Madkunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
