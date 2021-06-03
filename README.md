@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to 🔥MK1620🔥 R&D</h1>
+<h1 align="center">🔥MK1620🔥</h1>
 <p align="center">
   </a>
   </a>
@@ -10,12 +10,12 @@
   </a>
 </p>
 
+<h2 align="center">🔥MK1620🔥 R&D</h2>
+<p align="center">
+
+ 
 
 
-## 🚀 Usage
-
-
-## Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](🔥MK1620🔥)].
 <a href="https://"><img src="https://.svg?width=890&button=false" /></a>
@@ -25,11 +25,9 @@ This project exists thanks to all the people who contribute. [[Contribute](🔥M
 - Twitter: [@Mkant1620](https://twitter.com/MKant1620)
 - Github: [@Madkunt](https://github.com/Madkunt)
 
-## Show your support
-
  Please ⭐️ this repository if this project helped you!
 
-## 📝 License
+
 
 Copyright © 2021 [MK1620](https://github.com/Madkunt/).<br />
 This project is [420](Unlicensed 🤪) 
