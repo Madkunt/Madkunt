@@ -22,8 +22,8 @@ This project exists thanks to all the people who contribute. [[Contribute](🔥M
 
 👤 **🔥MK1620🔥**
 
-- Twitter: [@](https://twitter.com/MKant1620)
-- Github: [@](https://github.com/Madkunt)
+- Twitter: [@Mkant1620](https://twitter.com/MKant1620)
+- Github: [@Madkunt](https://github.com/Madkunt)
 
 
 ## 📝 License
