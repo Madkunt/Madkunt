@@ -24,7 +24,7 @@ This project exists thanks to all the people who contribute. [[Contribute](🔥M
 - Twitter: [@Mkant1620](https://twitter.com/MKant1620)
 - Github: [@Madkunt](https://github.com/Madkunt)
 
- Please ⭐️ this repository if this project helped you!
+ Hit The 👉🏼⭐️
 
 
 
