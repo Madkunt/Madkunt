@@ -15,14 +15,21 @@
  
 
 
+Please Show Your Support And Follow Bellow Pages:
+- 👉🏼
+- 👉🏼
+- 👉🏼
 
-This project exists thanks to all the people who contribute. [[Contribute](🔥MK1620🔥)].
-<a href="https://"><img src="https://.svg?width=890&button=false" /></a>
+
 
 👤 **🔥MK1620🔥**
 
-- Twitter: [@Mkant1620](https://twitter.com/MKant1620)
-- Github: [@Madkunt](https://github.com/Madkunt)
+- <a href="https://twitter.com/MKant1620">
+    <img alt="Twitter: MKant1620" src="https://img.shields.io/twitter/follow/MKant1620.svg?style=social" target="_blank" />
+  </a>
+-  <a href="https://github.com/MadKunt/">
+    <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog">
+  
 
  Hit The 👉🏼⭐️
 
