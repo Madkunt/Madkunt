@@ -16,7 +16,9 @@
 
 
 Please Show Your Support And Follow Bellow Pages:
-- 👉🏼
+- 👉🏼 - <a href="https://twitter.com/Pronoia16">
+    <img alt="Twitter: Pronoia16 " src="https://img.shields.io/twitter/follow/Pronoia16.svg?style=social" target="_blank" />
+  </a>
 - 👉🏼
 - 👉🏼
 
