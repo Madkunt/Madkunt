@@ -19,7 +19,7 @@ Please Show Your Support And Follow Bellow Pages:
 - 👉🏼 - <a href="https://twitter.com/Pronoia16">
     <img alt="Twitter: Pronoia16 " src="https://img.shields.io/twitter/follow/Pronoia16.svg?style=social" target="_blank" />
   </a>
-- 👉🏼 -  <a href="https://https://github.com/Pronoia42/">
+- 👉🏼 -  <a href="https://github.com/Pronoia42">
     <img src="https://img.shields.io/badge/GitHub/Pronoia42-brightgreen.svg" alt="gitmoji-changelog">
 - 👉🏼
 
