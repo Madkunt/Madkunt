@@ -1,14 +1,3 @@
-<h1 align="center">🔥MK1620🔥</h1>
-<p align="center">
-  </a>
-  </a>
-  <a href="https://github.com/MadKunt/">
-    <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog">
-  </a>
-  <a href="https://twitter.com/MKant1620">
-    <img alt="Twitter: MKant1620" src="https://img.shields.io/twitter/follow/MKant1620.svg?style=social" target="_blank" />
-  </a>
-
 <h1 align="center">WELCOME</h1>
 <p align="center">
 
