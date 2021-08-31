@@ -7,14 +7,14 @@
 <a href="https://twitter.com/MKant1620">
     <img alt="Twitter: MKant1620" src="https://img.shields.io/twitter/follow/MKant1620.svg?style=social" target="_blank" />
   </a>
--  <a href="https://github.com/MadKunt/">
+ <a href="https://github.com/MadKunt/">
     <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog">
 
  
 
 
 Please Show Your Support And Follow Bellow Pages:
-- 👉🏼 - <a href="https://twitter.com/Pronoia16">
+>👉🏼<a href="https://twitter.com/Pronoia16">
     <img alt="Twitter: Pronoia16 " src="https://img.shields.io/twitter/follow/Pronoia16.svg?style=social" target="_blank" />
   </a>
 
