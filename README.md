@@ -4,6 +4,12 @@
 <h2 align="center">Welcome</h2>
 <p align="center">
 
+<a href="https://twitter.com/MKant1620">
+    <img alt="Twitter: MKant1620" src="https://img.shields.io/twitter/follow/MKant1620.svg?style=social" target="_blank" />
+  </a>
+-  <a href="https://github.com/MadKunt/">
+    <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog">
+
  
 
 
