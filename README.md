@@ -1,14 +1,8 @@
-<h1 align="center">🔥MK1620🔥</h1>
-<p align="center">
-
-<h2 align="center"> Welcome To MK1620 R&D Page</h2>
-<p align="center">
-
-<a href="https://twitter.com/MKant1620">
-    <img alt="Twitter: MKant1620" src="https://img.shields.io/twitter/follow/MKant1620.svg?style=social" target="_blank" />
-  </a>
+<div align='center'><h1>  🔥MK1620🔥</h1></div>
+<div align="center">
+<a href="https://twitter.com/MKant1620"target="_blank" rel="nofollow"><img align="center" alt="Mk160 Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a>
  <a href="https://github.com/MadKunt/">
-    <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog">
+    <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog"><div>
 
  
 
