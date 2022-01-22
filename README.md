@@ -20,3 +20,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madkunt&show_icons=true&locale=en" alt="madkunt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madkunt&" alt="madkunt" /></p>
+
+ Hit The 👉🏼⭐️
+
+
+
+ Copyright © 2021 [MK1620](https://github.com/MK1620/).<br />
+ This project is [420](Unlicensed 🤪) 
