@@ -1,38 +1,22 @@
-<div align='center'><h1>  🔥MK1620🔥</h1></div>
-<div align="center">
-<a href="https://twitter.com/MKant1620"target="_blank" rel="nofollow"><img align="center" alt="Mk160 Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a>
- <a href="https://github.com/MK1620">
-    <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog"><div>
+<h1 align="center">🔥MadK1620🔥</h1>
+<h3 align="center">Destructive Development</h3>
 
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madkunt&label=Profile%20views&color=0e75b6&style=flat" alt="madkunt" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madkunt" alt="madkunt" /></a> </p>
 
-Please Show Your Support And Follow Bellow Pages:
->👉🏼<a href="https://twitter.com/Pronoia16">
-    <img alt="Twitter: Pronoia16 " src="https://img.shields.io/twitter/follow/Pronoia16.svg?style=social" target="_blank" />
-  </a>
+<p align="left"> <a href="https://twitter.com/mkant1620" target="blank"><img src="https://img.shields.io/twitter/follow/mkant1620?logo=twitter&style=for-the-badge" alt="mkant1620" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/madkunt1620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="madkunt1620" height="30" width="40" /></a>
+<a href="https://twitter.com/mkant1620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkant1620" height="30" width="40" /></a>
+<a href="https://codesandbox.com/madkunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="madkunt" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
-👤 **🔥MK1620🔥**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madkunt&show_icons=true&locale=en" alt="madkunt" /></p>
 
-- <a href="https://twitter.com/MKant1620">
-    <img alt="Twitter: MKant1620" src="https://img.shields.io/twitter/follow/MKant1620.svg?style=social" target="_blank" />
-  </a>
--  <a href="https://github.com/MK1620/">
-    <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" alt="gitmoji-changelog">
-  
-
- Hit The 👉🏼⭐️
-
-
-
-Copyright © 2021 [MK1620](https://github.com/MK1620/).<br />
-This project is [420](Unlicensed 🤪) 
-
-
-
-<!---
-Madkunt/Madkunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madkunt&" alt="madkunt" /></p>
