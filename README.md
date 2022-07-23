@@ -1,7 +1,7 @@
 <h1 align="center">🔥MadK1620🔥</h1>
 <h3 align="center">Destructive Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madkunt&label=Profile%20views&color=0e75b6&style=flat" alt="madkunt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=madkunt&label=Profile%20views&color=0e75b6&style=flat" alt="madkunt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madkunt" alt="madkunt" /></a> </p>
 
