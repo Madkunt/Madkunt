@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madkunt&label=Profile%20views&color=0e75b6&style=flat" alt="madkunt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madkunt" alt="madkunt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madkunt&column=3&margin-w=15&margin-h=15" alt="madkunt" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mkant1620" target="blank"><img src="https://img.shields.io/twitter/follow/mkant1620?logo=twitter&style=for-the-badge" alt="mkant1620" /></a> </p>
 
