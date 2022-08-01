@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madkunt&show_icons=true&hide_border=false&theme=chartreuse-dark" alt="madkunt" /></p>
 
- Hit The 👉🏼⭐️
+Please Hit The 👉🏼⭐️
 
 
 <h3 align="center">Connect with me:</h3>
